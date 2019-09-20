@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  numpedido: 1
+  prazoentrega: 1
+  vendedor: one
+  cliente: one
+
+two:
+  numpedido: 1
+  prazoentrega: 1
+  vendedor: two
+  cliente: two
